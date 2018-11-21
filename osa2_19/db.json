@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Anni Hietanen",
+      "number": "040-5678123",
+      "id": 4
+    },
+    {
+      "name": "Jarmo Kuusisto",
+      "number": "050-9876543",
+      "id": 5
+    },
+    {
+      "name": "Pekka Kaukalo",
+      "number": "040-2345617",
+      "id": 6
+    }
+  ]
+}
