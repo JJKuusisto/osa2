@@ -13,7 +13,7 @@
 * [Tehtävä 2.12](https://github.com/JJKuusisto/osa2/tree/master/osa2_12)
 * [Tehtävä 2.13](https://github.com/JJKuusisto/osa2/tree/master/osa2_13)
 * [Tehtävä 2.14](https://github.com/JJKuusisto/osa2/tree/master/osa2_14)
-* [Tehtävä 2.15](https://github.com/JJKuusisto/osa2/tree/master/osa2_15)
+* [Tehtävä 2.15](https://github.com/JJKuusisto/osa2/tree/master/osa2_14)
 * [Tehtävä 2.16](https://github.com/JJKuusisto/osa2/tree/master/osa2_16)
 * [Tehtävä 2.17](https://github.com/JJKuusisto/osa2/tree/master/osa2_17)
 * [Tehtävä 2.18](https://github.com/JJKuusisto/osa2/tree/master/osa2_18)
